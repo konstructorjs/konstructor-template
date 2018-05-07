@@ -15,7 +15,7 @@ mix.js('./assets/js/app.js', './public/assets/js');
 mix.sass('./assets/css/app.scss', './public/assets/css');
 mix.copyDirectory('./assets/static', './public/assets/static');
 
-mix.version()
+mix.version();
 mix.sourceMaps();
 mix.setPublicPath('./public/assets');
 mix.disableNotifications();
