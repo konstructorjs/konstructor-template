@@ -3,7 +3,7 @@
 ## Getting started
 ```
 npm install
-npm run dev
+npm start
 ```
 
 ## Guides/Docs
